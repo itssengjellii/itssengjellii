@@ -1,4 +1,4 @@
-# engjellibrahimi
+# Engjëll Ibrahimi
 ## 👋 About Me
 
 Hi, I'm **Engjell Ibrahimi**, a passionate web developer from Kosovo with a strong interest in modern web technologies and user interface design.
