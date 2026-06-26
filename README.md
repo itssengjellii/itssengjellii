@@ -10,3 +10,7 @@ Over the years, I've built a wide range of projects, from interactive websites a
 I enjoy turning ideas into real projects, experimenting with new technologies, and constantly learning something new. My goal is not only to write code that works but also to create applications that are fast, visually appealing, and easy to use. I believe that great software comes from continuous learning, creativity, and attention to detail.
 
 As I continue my journey as a developer, I'm always looking for new challenges that help me grow and push my skills to the next level.
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap&theme=dark" />
+</p>
